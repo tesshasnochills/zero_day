@@ -1,0 +1,1 @@
+Hello Ubuntu Vagrant task
